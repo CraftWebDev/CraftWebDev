@@ -7,6 +7,8 @@
   - 🔭 I’m working as a Front End Developer and contributing to frontend and  building cross platform applications using Flutter.
   - 👩‍🍳 In my free time, I love cooking and my dream is to open a Restaurant.
   - 📧 How to reach me: uzmaparvez91@gmail.com
+  
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
