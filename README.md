@@ -1,6 +1,9 @@
 <div id="header" align="right-center">
   <img src="https://media.giphy.com/media/579gW9cJf3mqPTTg7G/giphy.gif" width="100"/>
 </div>
+### :woman_technologist: About Me :
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
