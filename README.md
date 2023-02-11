@@ -1,6 +1,7 @@
 <div id="header" align="right-center">
   <img src="https://media.giphy.com/media/579gW9cJf3mqPTTg7G/giphy.gif" width="100"/>
 </div>
+
 ---
 
 <b> ### :woman_technologist: About Me :<b>
@@ -9,6 +10,7 @@
   - 🔭 I’m working as a Front End Developer and contributing to frontend and  building cross platform applications using Flutter.
   - 👩‍🍳 In my free time, I love cooking and my dream is to open a Restaurant.
   - 📧 How to reach me: uzmaparvez91@gmail.com
+  
   ---
   
  <b> ### :hammer_and_wrench: Languages and Tools :<b>
