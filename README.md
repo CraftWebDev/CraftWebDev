@@ -8,7 +8,8 @@
   - 👩‍🍳 In my free time, I love cooking and my dream is to open a Restaurant.
   - 📧 How to reach me: uzmaparvez91@gmail.com
   ---
- <b>hammer_and_wrench: Languages and Tools :<b>
+  
+ <b> ###:hammer_and_wrench: Languages and Tools :<b>
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
