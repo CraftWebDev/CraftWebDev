@@ -3,6 +3,7 @@
 </div>
 <b>### :woman_technologist: About Me :<b>
 <b>I am a Front End Developer<b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+  
   - 🔭 I’m working as a Front End Developer and contributing to frontend and  building cross platform applications using Flutter.
   - 👩‍🍳 In my free time, I love cooking and my dream is to open a Restaurant.
   - 📧 How to reach me: uzmaparvez91@gmail.com
