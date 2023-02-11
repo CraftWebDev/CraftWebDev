@@ -1,7 +1,7 @@
 <div id="header" align="right-center">
   <img src="https://media.giphy.com/media/579gW9cJf3mqPTTg7G/giphy.gif" width="100"/>
 </div>
-### :woman_technologist: About Me :
+<b>### :woman_technologist: About Me :<b>
 <b>I am a Front End Developer<b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 <div>
